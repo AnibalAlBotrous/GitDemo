@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12591" started-at="2021-01-24T02:32:06 CET" finished-at="2021-01-24T02:32:19 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12591" started-at="2021-01-24T02:32:06 CET" finished-at="2021-01-24T02:32:19 CET">
+      <class name="tests.AllOrdersTests">
+        <test-method status="PASS" signature="setupMethod()[pri:0, instance:tests.AllOrdersTests@1f7030a6]" name="setupMethod" is-config="true" duration-ms="8202" started-at="2021-01-24T02:32:06 CET" finished-at="2021-01-24T02:32:15 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="PASS" signature="verifyCheckboxes()[pri:0, instance:tests.AllOrdersTests@1f7030a6]" name="verifyCheckboxes" duration-ms="3647" started-at="2021-01-24T02:32:15 CET" finished-at="2021-01-24T02:32:18 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckboxes -->
+        <test-method status="PASS" signature="teardownMethod()[pri:0, instance:tests.AllOrdersTests@1f7030a6]" name="teardownMethod" is-config="true" duration-ms="674" started-at="2021-01-24T02:32:18 CET" finished-at="2021-01-24T02:32:19 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownMethod -->
+      </class> <!-- tests.AllOrdersTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
